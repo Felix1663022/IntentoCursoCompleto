@@ -1,0 +1,6 @@
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaALDAL\bin\Debug\EscuelaALDAL.dll
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaALDAL\bin\Debug\EscuelaALDAL.pdb
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaALDAL\obj\Debug\EscuelaAL_DAL.csprojAssemblyReference.cache
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaALDAL\obj\Debug\EscuelaAL_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaALDAL\obj\Debug\EscuelaALDAL.dll
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaALDAL\obj\Debug\EscuelaALDAL.pdb

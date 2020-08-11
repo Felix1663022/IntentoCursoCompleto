@@ -1,0 +1,9 @@
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaAL_BLL\bin\Debug\EscuelaAL_BLL.dll
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaAL_BLL\bin\Debug\EscuelaAL_BLL.pdb
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaAL_BLL\bin\Debug\EscuelaALDAL.dll
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaAL_BLL\bin\Debug\EscuelaALDAL.pdb
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaAL_BLL\obj\Debug\EscuelaAL_BLL.csprojAssemblyReference.cache
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaAL_BLL\obj\Debug\EscuelaAL_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaAL_BLL\obj\Debug\EscuelaAL_BLL.csproj.CopyComplete
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaAL_BLL\obj\Debug\EscuelaAL_BLL.dll
+C:\Users\Isabel\Desktop\IntentoCursoCompleto\EscuelaAL_BLL\obj\Debug\EscuelaAL_BLL.pdb
